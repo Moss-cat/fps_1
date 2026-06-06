@@ -40,6 +40,13 @@
       "label": "游戏主界面"
     },
     {
+      "src": "/fps_1/screenshots/wave.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "波次生成UI界面"
+    },
+    {
       "src": "/fps_1/screenshots/main.png",
       "sizes": "1920x1080",
       "type": "image/png",
