@@ -1,7 +1,7 @@
 {
-  "name": "末日战场 - 第一人称丧尸围城体验",
+  "name": "末日战场|3D末日射击",
   "short_name": "末日战场",
-  "description": "3D FPS射击游戏",
+  "description": "第一人称丧尸围城",
   "start_url": "/fps_1/",
   "scope": "/fps_1/",
   "display": "standalone",
