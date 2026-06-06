@@ -5,20 +5,47 @@
   "description": "第一人称丧尸围城",
   "start_url": "/fps_1/",
   "scope": "/fps_1/",
-  "display": "standalone",
+  "display": "fullscreen",
   "orientation": "landscape",
-  "background_color": "#111",
-  "theme_color": "#111",
+  "background_color": "#0a0a0f",
+  "theme_color": "#1a1a2e",
+  "categories": ["游戏", "动作"],
   "icons": [
     {
       "src": "/fps_1/icon-192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "/fps_1/icon-512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
-  ]
+  ],
+  "screenshots": [
+    {
+      "src": "/fps_1/screenshots/init.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "初始化引擎界面"
+    },
+    {
+      "src": "/fps_1/screenshots/page.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "游戏主界面"
+    },
+    {
+      "src": "/fps_1/screenshots/main.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "战斗场景"
+    }
+  ],
+  "prefer_related_applications": false
 }
