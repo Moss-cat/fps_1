@@ -1,0 +1,23 @@
+{
+  "name": "末日战场 - 第一人称丧尸围城体验",
+  "short_name": "末日战场",
+  "description": "3D FPS射击游戏",
+  "start_url": "/fps_1/",
+  "scope": "/fps_1/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#111",
+  "theme_color": "#111",
+  "icons": [
+    {
+      "src": "/fps_1/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/fps_1/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
