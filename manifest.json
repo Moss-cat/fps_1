@@ -13,13 +13,13 @@
   "iarc_rating_id": "e10+",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "/fps_1/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/icon-512.png",
+      "src": "/fps_1/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
