@@ -13,13 +13,13 @@
   "iarc_rating_id": "e10+",
   "icons": [
     {
-      "src": "/fps_1/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/fps_1/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
@@ -27,28 +27,28 @@
   ],
   "screenshots": [
     {
-      "src": "/fps_1/screenshots/init.png.png",
+      "src": "/screenshots/init.png.png",
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide",
       "label": "初始化引擎界面"
     },
     {
-      "src": "/fps_1/screenshots/page.png.png",
+      "src": "/screenshots/page.png.png",
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide",
       "label": "游戏主界面"
     },
     {
-      "src": "/fps_1/screenshots/wave.png.png",
+      "src": "/screenshots/wave.png.png",
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide",
       "label": "波次生成UI"
     },
     {
-      "src": "/fps_1/screenshots/main.png.png",
+      "src": "/screenshots/main.png.png",
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide",
