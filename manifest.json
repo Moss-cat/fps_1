@@ -27,28 +27,28 @@
   ],
   "screenshots": [
     {
-      "src": "/screenshots/init.png.png",
+      "src": "/fps_1/screenshots/init.png.png",
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide",
       "label": "初始化引擎界面"
     },
     {
-      "src": "/screenshots/page.png.png",
+      "src": "/fps_1/screenshots/page.png.png",
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide",
       "label": "游戏主界面"
     },
     {
-      "src": "/screenshots/wave.png.png",
+      "src": "/fps_1/screenshots/wave.png.png",
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide",
       "label": "波次生成UI"
     },
     {
-      "src": "/screenshots/main.png.png",
+      "src": "/fps_1/screenshots/main.png.png",
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide",
