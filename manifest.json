@@ -2,7 +2,7 @@
   "id": "/fps_1/",
   "name": "末日战场|3D末日射击",
   "short_name": "末日战场",
-  "description": "第一人称丧尸围城",
+  "description": "二战末日题材|3D射击游戏",
   "start_url": "/fps_1/",
   "scope": "/fps_1/",
   "display": "fullscreen",
@@ -45,7 +45,7 @@
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "波次生成UI界面"
+      "label": "波次生成UI"
     },
     {
       "src": "/fps_1/screenshots/main.png",
